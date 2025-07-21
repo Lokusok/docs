@@ -1,2 +1,7 @@
-# Test new page
-this page just for test
+Test page
+===
+
+.. autosummary::
+   :toctree: generated
+
+   test
